@@ -1,0 +1,58 @@
+FONTLOG
+East Syriac Marcus font family
+========================
+
+This file provides detailed information on the East Syriac Marcus font software.
+This information should be distributed along with the East Syriac Marcus font and
+any derivative works.
+
+
+Basic Font Information
+----------------------
+
+This goal for this product was to provide a single Unicode-based font 
+that would contain a comprehensive inventory of glyphs needed for almost any
+East Syriac-based writing system. In addition, there is minimal provision for other 
+Latin characters and symbols. 
+
+One font from this typeface family is included in this release:
+
+     * AA-East Syriac Marcus Regular
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+### 15 Jan 2025 AA-East Syriac Marcus version 1.100
+- Release under the SIL Open Font License (https://openfontlicense.org/).
+- Changed copyright holder from Syriac Advanced Software to Sparksoft Systems.
+- No structural changes to the font.
+
+### 16 May 2011 AA-East Syriac Marcus version 1.00
+- Release under a revised name.
+- Updated some of the custom codepoints to official Unicode codepoints.
+
+### 8 April 2005 East Syriac Marcus unversioned
+- Converted to Unicode?
+
+### 1997 East Syriac Marcus unversioned
+- Initial release by Syriac Advanced Software. For free distribution. 
+- Created by Esho Marcus and Sargon Hasso.
+- Non-Unicode, custom-encoded font.
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Sargon Hasso
+D: OpenType developer
+
+N: Esho Marcus
+D: Type Designer
+
+The East Syriac Marcus project is maintained by Sparksoft Systems.
+
+For more information please visit the East Syriac Marcus page on this website:
+xxx
