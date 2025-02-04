@@ -1,44 +1,58 @@
 FONTLOG
-East Syriac Marcus font family
-========================
+Syriac Marcus font families
+===========================
 
-This file provides detailed information on the East Syriac Marcus font software.
-This information should be distributed along with the East Syriac Marcus font and
+This file provides detailed information on the Syriac Marcus font software.
+This information should be distributed along with the Syriac Marcus fonts and
 any derivative works.
 
 
 Basic Font Information
 ----------------------
 
-This goal for this product was to provide a single Unicode-based font 
-that would contain a comprehensive inventory of glyphs needed for almost any
-East Syriac-based writing system. In addition, there is minimal provision for other 
-Latin characters and symbols. 
+The goal for these products is to provide Unicode-based fonts that  
+contain a comprehensive inventory of glyphs needed for almost any Estrangelo 
+or East Syriac-based writing system. In addition, there is minimal provision 
+for other Latin characters and symbols. 
 
-One font from this typeface family is included in this release:
+Four fonts are included in this release:
 
-     * AA-East Syriac Marcus Regular
+     * Estrangelo Marcus Regular
+     * East Syriac Marcus Regular
+     * East Syriac Nohadra Regular
+     * AAA-Manuscript Marcus Regular
+
+Appreciation
+----------------------
+We wish to express our appreciation to Paul Nelson and George Kiraz of SIL, and Syriac 
+Computing Institute, respectively for their early assistance in getting the Syriac script 
+encoded in Unicode (http://www.unicode.org/L2/L1998/98050-syriac-proposal.pdf) 
+as well as in developing the OpenType specification for Syriac 
+(https://learn.microsoft.com/en-us/typography/script-development/syriac).
 
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-### 15 Jan 2025 AA-East Syriac Marcus version 1.100
-- Release under the SIL Open Font License (https://openfontlicense.org/).
-- Changed copyright holder from Syriac Advanced Software to Sparksoft Systems.
-- No structural changes to the font.
+### 15 Jan 2025 AAA-Manuscript Marcus, East Syriac Nohadra, East Syriac Marcus, Estrangelo Marcus version 1.100
+- Re-released under the SIL Open Font License (https://openfontlicense.org/).
+- Copyright reassigned fromSyriac Advanced Software to Sparksoft Systems.
+- No structural changes to the fonts.
 
-### 16 May 2011 AA-East Syriac Marcus version 1.00
-- Release under a revised name.
-- Updated some of the custom codepoints to official Unicode codepoints.
+### 11 Jul 2010 AAA-Manuscript Marcus version 1.0
+- Initial release.
 
-### 8 April 2005 East Syriac Marcus unversioned
-- Converted to Unicode?
+### 29 September 2004 East Syriac Nohadra version 1.0
+- Initial release.
+
+### 29 September 2004 East Syriac Marcus version 1.0
+- Initial release.
+
+### 29 September 2004 Estrangelo Marcus version 1.0
+- Initial release.
 
 ### 1997 East Syriac Marcus unversioned
-- Initial release by Syriac Advanced Software. For free distribution. 
-- Created by Esho Marcus and Sargon Hasso.
-- Non-Unicode, custom-encoded font.
+- Initial release.
 
 Acknowledgements
 ----------------
@@ -47,12 +61,14 @@ be sure to add your name (N), email (E), web-address (W) and description
 (D). This list is sorted by last name in alphabetical order.)
 
 N: Sargon Hasso
+W: https://github.com/SparksoftSystems/Syriac-Fonts
 D: OpenType developer
 
 N: Esho Marcus
+W: https://github.com/SparksoftSystems/Syriac-Fonts
 D: Type Designer
 
-The East Syriac Marcus project is maintained by Sparksoft Systems.
+The Syriac Marcus project is maintained by Sparksoft Systems.
 
-For more information please visit the East Syriac Marcus page on this website:
-xxx
+For more information please visit the Syriac Marcus page on this website:
+https://github.com/SparksoftSystems/Syriac-Fonts
