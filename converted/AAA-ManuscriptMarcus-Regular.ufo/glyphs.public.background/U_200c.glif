@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U200c" format="2">
+  <advance width="41"/>
+  <unicode hex="200C"/>
+  <note>
+U200c
+</note>
+  <outline>
+    <contour>
+      <point x="0" y="-116" type="line"/>
+      <point x="41" y="-116" type="line"/>
+      <point x="41" y="1353" type="line"/>
+      <point x="0" y="1353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

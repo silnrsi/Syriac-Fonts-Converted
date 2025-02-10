@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U200d" format="2">
+  <advance width="41"/>
+  <unicode hex="200D"/>
+  <note>
+U200d
+</note>
+  <outline>
+    <contour>
+      <point x="0" y="-116" type="line"/>
+      <point x="41" y="-116" type="line"/>
+      <point x="41" y="1229" type="line"/>
+      <point x="117" y="1153" type="line"/>
+      <point x="144" y="1180" type="line"/>
+      <point x="48" y="1276" type="line"/>
+      <point x="144" y="1373" type="line"/>
+      <point x="117" y="1400" type="line"/>
+      <point x="21" y="1303" type="line"/>
+      <point x="-76" y="1400" type="line"/>
+      <point x="-103" y="1373" type="line"/>
+      <point x="-6" y="1276" type="line"/>
+      <point x="-103" y="1180" type="line"/>
+      <point x="-76" y="1153" type="line"/>
+      <point x="0" y="1229" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 119 values pushed */
+1 15 15 64 16 0 11 6 5 2 1 14 13 9 8 7 0 0 14 0 1 10 1 2 11 10 11 12 7 7 12 5 4 5 13 6 10 10 10 11 9 9 10 6 5 6 7 10 7 8 14 13 14 11 11 12 0 10 10 0 8 7 8 2 2 3 1 9 10 13 13 14 12 12 13 5 4 5 13 6 9 11 10 11 12 7 7 12 8 7 8 2 2 3 1 9 9 14 13 14 11 11 12 0 10 10 0 3 2 6 5 4 12 10 4 3 1 7 70
+SROUND[ ]	/* SuperRound */
+MDAP[1]	/* MoveDirectAbsPt */
+SHZ[1]	/* ShiftZoneByLastPoint */
+RTG[ ]	/* RoundToGrid */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+MIRP[11101]	/* MoveIndirectRelPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MIRP[11100]	/* MoveIndirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MIRP[11100]	/* MoveIndirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MIRP[11100]	/* MoveIndirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MIRP[11100]	/* MoveIndirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MIRP[11100]	/* MoveIndirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MIRP[11100]	/* MoveIndirectRelPt */
+SFVTL[0]	/* SetFVectorToLine */
+MDRP[00100]	/* MoveDirectRelPt */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+MD[0]	/* MeasureDistance */
+ROUND[00]	/* Round */
+PUSHW[ ]	/* 2 values pushed */
+7 15
+MD[0]	/* MeasureDistance */
+ROUND[00]	/* Round */
+SUB[ ]	/* Subtract */
+PUSHB[ ]	/* 1 value pushed */
+64
+GT[ ]	/* GreaterThan */
+IF[ ]	/* If */
+SHPIX[ ]	/* ShiftZoneByPixel */
+SRP1[ ]	/* SetRefPoint1 */
+SHZ[1]	/* ShiftZoneByLastPoint */
+PUSHW[ ]	/* 2 values pushed */
+15 -64
+SHPIX[ ]	/* ShiftZoneByPixel */
+EIF[ ]	/* EndIf */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:37:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

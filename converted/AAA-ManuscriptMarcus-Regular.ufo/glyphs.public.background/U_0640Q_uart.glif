@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0640Quart" format="2">
+  <advance width="90"/>
+  <unicode hex="016E"/>
+  <note>
+U0640Quart
+</note>
+  <anchor x="45" y="-120" name="class0"/>
+  <outline>
+    <contour>
+      <point x="-3" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="94" y="155" type="line"/>
+      <point x="-3" y="155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

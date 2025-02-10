@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noName00547" format="2">
+  <advance width="480"/>
+  <unicode hex="02A5"/>
+  <note>
+noName00547
+</note>
+  <outline>
+    <contour>
+      <point x="182" y="542" type="line"/>
+      <point x="354" y="542" type="line"/>
+      <point x="335" y="697" type="line"/>
+      <point x="155" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="155" type="line"/>
+      <point x="354" y="155" type="line"/>
+      <point x="335" y="310" type="line"/>
+      <point x="155" y="310" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

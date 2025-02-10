@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0324" format="2">
+  <advance width="0"/>
+  <unicode hex="0324"/>
+  <note>
+U0324
+</note>
+  <anchor x="255" y="-15" name="_class2"/>
+  <outline>
+    <contour>
+      <point x="298" y="-173" type="line"/>
+      <point x="465" y="-173" type="line"/>
+      <point x="423" y="-18" type="line"/>
+      <point x="256" y="-18" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="-174" type="line"/>
+      <point x="224" y="-174" type="line"/>
+      <point x="182" y="-19" type="line"/>
+      <point x="15" y="-19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

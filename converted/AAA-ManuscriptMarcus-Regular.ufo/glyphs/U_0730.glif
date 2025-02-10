@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0730" format="2">
+  <advance width="0"/>
+  <unicode hex="0730"/>
+  <note>
+U0730
+</note>
+  <anchor x="195" y="60" name="_class0"/>
+  <outline>
+    <contour>
+      <point x="28" y="0" type="line"/>
+      <point x="372" y="241" type="line"/>
+      <point x="343" y="278" type="line"/>
+      <point x="302" y="249" type="line"/>
+      <point x="86" y="288" type="line"/>
+      <point x="49" y="71" type="line"/>
+      <point x="-1" y="37" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="104" type="line"/>
+      <point x="121" y="243" type="line"/>
+      <point x="258" y="218" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

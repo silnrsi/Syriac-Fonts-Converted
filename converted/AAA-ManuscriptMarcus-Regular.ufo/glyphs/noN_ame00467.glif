@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noName00467" format="2">
+  <advance width="0"/>
+  <unicode hex="0255"/>
+  <note>
+noName00467
+</note>
+  <outline>
+    <contour>
+      <point x="56" y="-182" type="line"/>
+      <point x="228" y="-182" type="line"/>
+      <point x="209" y="-27" type="line"/>
+      <point x="29" y="-27" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

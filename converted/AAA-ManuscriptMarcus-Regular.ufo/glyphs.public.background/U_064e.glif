@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U064e" format="2">
+  <advance width="0"/>
+  <unicode hex="064E"/>
+  <note>
+U064e
+</note>
+  <anchor x="150" y="0" name="_class0"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="curve"/>
+      <point x="241" y="137" type="line" smooth="yes"/>
+      <point x="259" y="147"/>
+      <point x="268" y="170"/>
+      <point x="268" y="205" type="curve"/>
+      <point x="52" y="80" type="line" smooth="yes"/>
+      <point x="20" y="61"/>
+      <point x="3" y="35"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

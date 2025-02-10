@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0667" format="2">
+  <advance width="826"/>
+  <unicode hex="0667"/>
+  <note>
+U0667
+</note>
+  <outline>
+    <contour>
+      <point x="422" y="10" type="curve"/>
+      <point x="451" y="10" type="line"/>
+      <point x="467" y="139"/>
+      <point x="494" y="258"/>
+      <point x="532" y="369" type="curve" smooth="yes"/>
+      <point x="585" y="523"/>
+      <point x="648" y="622"/>
+      <point x="722" y="666" type="curve"/>
+      <point x="722" y="854" type="line"/>
+      <point x="613" y="800"/>
+      <point x="518" y="574"/>
+      <point x="439" y="176" type="curve"/>
+      <point x="400" y="343"/>
+      <point x="366" y="467"/>
+      <point x="336" y="550" type="curve" smooth="yes"/>
+      <point x="275" y="716"/>
+      <point x="206" y="815"/>
+      <point x="128" y="848" type="curve"/>
+      <point x="116" y="644" type="line"/>
+      <point x="196" y="605"/>
+      <point x="266" y="512"/>
+      <point x="327" y="364" type="curve" smooth="yes"/>
+      <point x="374" y="248"/>
+      <point x="406" y="130"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

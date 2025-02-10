@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0749" format="2">
+  <advance width="0"/>
+  <unicode hex="0749"/>
+  <note>
+U0749
+</note>
+  <anchor x="330" y="180" name="_class0"/>
+  <outline>
+    <contour>
+      <point x="8" y="36" type="line"/>
+      <point x="584" y="438" type="line"/>
+      <point x="584" y="520" type="line"/>
+      <point x="8" y="116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

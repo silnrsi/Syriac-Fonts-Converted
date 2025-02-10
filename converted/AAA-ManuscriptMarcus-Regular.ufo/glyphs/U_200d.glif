@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U200d" format="2">
+  <advance width="41"/>
+  <unicode hex="200D"/>
+  <note>
+U200d
+</note>
+  <outline>
+    <contour>
+      <point x="0" y="-116" type="line"/>
+      <point x="41" y="-116" type="line"/>
+      <point x="41" y="1229" type="line"/>
+      <point x="117" y="1153" type="line"/>
+      <point x="144" y="1180" type="line"/>
+      <point x="48" y="1276" type="line"/>
+      <point x="144" y="1373" type="line"/>
+      <point x="117" y="1400" type="line"/>
+      <point x="21" y="1303" type="line"/>
+      <point x="-76" y="1400" type="line"/>
+      <point x="-103" y="1373" type="line"/>
+      <point x="-6" y="1276" type="line"/>
+      <point x="-103" y="1180" type="line"/>
+      <point x="-76" y="1153" type="line"/>
+      <point x="0" y="1229" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

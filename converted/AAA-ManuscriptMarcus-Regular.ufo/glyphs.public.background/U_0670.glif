@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0670" format="2">
+  <advance width="0"/>
+  <unicode hex="0670"/>
+  <note>
+U0670
+</note>
+  <outline>
+    <contour>
+      <point x="61" y="-2" type="line"/>
+      <point x="86" y="40"/>
+      <point x="99" y="73"/>
+      <point x="99" y="97" type="curve" smooth="yes"/>
+      <point x="99" y="130"/>
+      <point x="91" y="179"/>
+      <point x="76" y="243" type="curve" smooth="yes"/>
+      <point x="60" y="307"/>
+      <point x="52" y="355"/>
+      <point x="51" y="388" type="curve"/>
+      <point x="20" y="353"/>
+      <point x="4" y="324"/>
+      <point x="4" y="303" type="curve" smooth="yes"/>
+      <point x="4" y="274"/>
+      <point x="13" y="231"/>
+      <point x="30" y="174" type="curve" smooth="yes"/>
+      <point x="47" y="117"/>
+      <point x="56" y="73"/>
+      <point x="56" y="44" type="curve" smooth="yes"/>
+      <point x="56" y="35"/>
+      <point x="53" y="20"/>
+      <point x="47" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

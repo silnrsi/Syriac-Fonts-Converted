@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0308" format="2">
+  <advance width="0"/>
+  <unicode hex="0308"/>
+  <note>
+U0308
+</note>
+  <anchor x="240" y="15" name="_class0"/>
+  <outline>
+    <contour>
+      <point x="325" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="450" y="155" type="line"/>
+      <point x="283" y="155" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="212" y="155" type="line"/>
+      <point x="45" y="155" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

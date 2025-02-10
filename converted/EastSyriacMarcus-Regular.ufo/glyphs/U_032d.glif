@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U032d" format="2">
+  <advance width="855"/>
+  <unicode hex="032D"/>
+  <note>
+U032d
+</note>
+  <anchor x="0" y="-105" name="_class2"/>
+  <outline>
+    <contour>
+      <point x="-354" y="-439" type="line"/>
+      <point x="-270" y="-439" type="line"/>
+      <point x="2" y="-84" type="line"/>
+      <point x="121" y="-213"/>
+      <point x="228" y="-330"/>
+      <point x="321" y="-437" type="curve"/>
+      <point x="400" y="-437" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="-19" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 26 values pushed */
+1 8 8 64 9 0 3 5 0 3 4 9 6 5 5 6 7 6 5 1 0 3 4 1 5 70
+SROUND[ ]	/* SuperRound */
+MDAP[1]	/* MoveDirectAbsPt */
+SHZ[1]	/* ShiftZoneByLastPoint */
+RTG[ ]	/* RoundToGrid */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+SLOOP[ ]	/* SetLoopVariable */
+ALIGNRP[ ]	/* AlignRelativePt */
+MDAP[1]	/* MoveDirectAbsPt */
+ALIGNRP[ ]	/* AlignRelativePt */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SDPVTL[1]	/* SetDualPVectorToLine */
+MDAP[0]	/* MoveDirectAbsPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MIRP[11100]	/* MoveIndirectRelPt */
+SFVTPV[ ]	/* SetFVectorToPVector */
+MDRP[00100]	/* MoveDirectRelPt */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[0]	/* MoveDirectAbsPt */
+MDAP[0]	/* MoveDirectAbsPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[0]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+MD[0]	/* MeasureDistance */
+ROUND[00]	/* Round */
+PUSHW[ ]	/* 2 values pushed */
+5 8
+MD[0]	/* MeasureDistance */
+ROUND[00]	/* Round */
+SUB[ ]	/* Subtract */
+PUSHB[ ]	/* 1 value pushed */
+64
+GT[ ]	/* GreaterThan */
+IF[ ]	/* If */
+SHPIX[ ]	/* ShiftZoneByPixel */
+SRP1[ ]	/* SetRefPoint1 */
+SHZ[1]	/* ShiftZoneByLastPoint */
+PUSHW[ ]	/* 2 values pushed */
+8 -64
+SHPIX[ ]	/* ShiftZoneByPixel */
+EIF[ ]	/* EndIf */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:38:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0660" format="2">
+  <advance width="751"/>
+  <unicode hex="0660"/>
+  <note>
+U0660
+</note>
+  <outline>
+    <contour>
+      <point x="433" y="275" type="curve"/>
+      <point x="448" y="353"/>
+      <point x="460" y="409"/>
+      <point x="469" y="442" type="curve"/>
+      <point x="419" y="478"/>
+      <point x="374" y="514"/>
+      <point x="335" y="550" type="curve"/>
+      <point x="316" y="494"/>
+      <point x="299" y="435"/>
+      <point x="286" y="372" type="curve"/>
+      <point x="329" y="339"/>
+      <point x="378" y="306"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

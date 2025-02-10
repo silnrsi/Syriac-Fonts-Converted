@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onesuperior" format="2">
+  <advance width="800"/>
+  <unicode hex="00B9"/>
+  <note>
+onesuperior
+</note>
+  <outline>
+    <contour>
+      <point x="349" y="535" type="curve" smooth="yes"/>
+      <point x="462" y="535" type="line" smooth="yes"/>
+      <point x="481" y="535"/>
+      <point x="490" y="542"/>
+      <point x="490" y="556" type="curve" smooth="yes"/>
+      <point x="490" y="570"/>
+      <point x="481" y="577"/>
+      <point x="462" y="577" type="curve" smooth="yes"/>
+      <point x="426" y="577" type="line"/>
+      <point x="426" y="1171" type="line"/>
+      <point x="341" y="1140" type="line" smooth="yes"/>
+      <point x="327" y="1135"/>
+      <point x="320" y="1127"/>
+      <point x="320" y="1117" type="curve" smooth="yes"/>
+      <point x="320" y="1103"/>
+      <point x="327" y="1096"/>
+      <point x="340" y="1096" type="curve" smooth="yes"/>
+      <point x="348" y="1096"/>
+      <point x="355" y="1098"/>
+      <point x="360" y="1101" type="curve" smooth="yes"/>
+      <point x="369" y="1107"/>
+      <point x="377" y="1111"/>
+      <point x="384" y="1113" type="curve"/>
+      <point x="384" y="577" type="line"/>
+      <point x="349" y="577" type="line" smooth="yes"/>
+      <point x="330" y="577"/>
+      <point x="321" y="570"/>
+      <point x="321" y="556" type="curve" smooth="yes"/>
+      <point x="321" y="542"/>
+      <point x="330" y="535"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="middot" format="2">
+  <advance width="903"/>
+  <unicode hex="25EF"/>
+  <note>
+middot
+</note>
+  <outline>
+    <contour>
+      <point x="453" y="576" type="curve" smooth="yes"/>
+      <point x="509" y="576"/>
+      <point x="555" y="622"/>
+      <point x="555" y="678" type="curve" smooth="yes"/>
+      <point x="555" y="735"/>
+      <point x="510" y="781"/>
+      <point x="453" y="781" type="curve" smooth="yes"/>
+      <point x="396" y="781"/>
+      <point x="350" y="735"/>
+      <point x="350" y="678" type="curve" smooth="yes"/>
+      <point x="350" y="621"/>
+      <point x="396" y="576"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 15 values pushed */
+1 12 12 64 13 0 0 5 6 3 9 2 1 6 70
+SROUND[ ]	/* SuperRound */
+MDAP[1]	/* MoveDirectAbsPt */
+SHZ[1]	/* ShiftZoneByLastPoint */
+RTG[ ]	/* RoundToGrid */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MDAP[1]	/* MoveDirectAbsPt */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MIRP[11101]	/* MoveIndirectRelPt */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+MD[0]	/* MeasureDistance */
+ROUND[00]	/* Round */
+PUSHW[ ]	/* 2 values pushed */
+6 12
+MD[0]	/* MeasureDistance */
+ROUND[00]	/* Round */
+SUB[ ]	/* Subtract */
+PUSHB[ ]	/* 1 value pushed */
+64
+GT[ ]	/* GreaterThan */
+IF[ ]	/* If */
+SHPIX[ ]	/* ShiftZoneByPixel */
+SRP1[ ]	/* SetRefPoint1 */
+SHZ[1]	/* ShiftZoneByLastPoint */
+PUSHW[ ]	/* 2 values pushed */
+12 -64
+SHPIX[ ]	/* ShiftZoneByPixel */
+EIF[ ]	/* EndIf */</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:38:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

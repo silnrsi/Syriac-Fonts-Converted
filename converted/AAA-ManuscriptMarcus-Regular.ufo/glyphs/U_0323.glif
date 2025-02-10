@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0323" format="2">
+  <advance width="0"/>
+  <unicode hex="0323"/>
+  <note>
+U0323
+</note>
+  <anchor x="135" y="-45" name="_class2"/>
+  <outline>
+    <contour>
+      <point x="74" y="-180" type="line"/>
+      <point x="241" y="-180" type="line"/>
+      <point x="199" y="-25" type="line"/>
+      <point x="32" y="-25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

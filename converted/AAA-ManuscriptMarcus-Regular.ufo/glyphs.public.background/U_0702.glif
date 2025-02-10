@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U0702" format="2">
+  <advance width="430"/>
+  <unicode hex="0702"/>
+  <note>
+U0702
+</note>
+  <outline>
+    <contour>
+      <point x="221" y="-187" type="curve" smooth="yes"/>
+      <point x="274" y="-187"/>
+      <point x="311" y="-141"/>
+      <point x="311" y="-86" type="curve" smooth="yes"/>
+      <point x="311" y="-37"/>
+      <point x="268" y="0"/>
+      <point x="217" y="0" type="curve" smooth="yes"/>
+      <point x="162" y="0"/>
+      <point x="122" y="-41"/>
+      <point x="122" y="-97" type="curve" smooth="yes"/>
+      <point x="122" y="-145"/>
+      <point x="173" y="-187"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-10 17:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>
